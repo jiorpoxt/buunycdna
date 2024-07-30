@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:12
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:10.000000,
-https://cdnx.amzcnp.com/hlsx/2024073013241414d.ts
+#EXT-X-MEDIA-SEQUENCE:2
 #EXTINF:11.120000,
 https://cdnx.amzcnp.com/hlsx/2024073013241424d.ts
 #EXTINF:11.280000,
@@ -32,3 +30,5 @@ https://cdnx.amzcnp.com/hlsx/20240730132414134d.ts
 https://cdnx.amzcnp.com/hlsx/20240730132414144d.ts
 #EXTINF:11.120000,
 https://cdnx.amzcnp.com/hlsx/20240730132414154d.ts
+#EXTINF:7.720000,
+https://cdnx.amzcnp.com/hlsx/20240730132414164d.ts
