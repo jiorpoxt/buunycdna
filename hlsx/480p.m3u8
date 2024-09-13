@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:23
-#EXT-X-MEDIA-SEQUENCE:7
-#EXTINF:17.840000,
-https://buunycdna.pages.dev/hlsx/2024091302324274d.ts
+#EXT-X-TARGETDURATION:25
+#EXT-X-MEDIA-SEQUENCE:8
 #EXTINF:20.600000,
 https://buunycdna.pages.dev/hlsx/2024091302324284d.ts
 #EXTINF:22.200000,
@@ -18,3 +16,5 @@ https://buunycdna.pages.dev/hlsx/20240913023242124d.ts
 https://buunycdna.pages.dev/hlsx/20240913023242134d.ts
 #EXTINF:18.360000,
 https://buunycdna.pages.dev/hlsx/20240913023242144d.ts
+#EXTINF:25.280000,
+https://buunycdna.pages.dev/hlsx/20240913023242154d.ts
